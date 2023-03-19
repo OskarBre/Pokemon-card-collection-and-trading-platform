@@ -14,4 +14,4 @@ Trade!
 
 For the admin:
 - Browse everyone's collections
-- Remove "fake" cards added by users
+- Remove "fake" pokemons added by users (such as digimons)
