@@ -1,4 +1,4 @@
-# Pokemon-collection-and-trading-platform
+# Pokemon collection and trading platform
 
 Collect!
 - Create your own account and log in to your "PC".
