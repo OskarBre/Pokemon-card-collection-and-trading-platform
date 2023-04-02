@@ -15,3 +15,7 @@ Trade!
 For the admin:
 - Browse everyone's collections.
 - Remove "fake" pokemons added by users (pokemons with false abilities).
+
+Features added v(0.1):
+- start page
+- page for box
