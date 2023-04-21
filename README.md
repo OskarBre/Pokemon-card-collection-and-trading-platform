@@ -28,3 +28,5 @@ Features added or modified v(0.2)
 - "app.py" has been added
 - "routes.py" has been added
 - "db.py" has been added
+- deleted page for box
+- moved index.html to templates.
