@@ -19,3 +19,12 @@ For the admin:
 Features added v(0.1):
 - start page
 - page for box
+
+Features added or modified v(0.2)
+- start page includes a login formula (every password functions)
+- main page "/"
+- page "/new" that can be used for adding pokemons
+- page "/create_user" has been added, however users cannot yet be added to database
+- "app.py" has been added
+- "routes.py" has been added
+- "db.py" has been added
