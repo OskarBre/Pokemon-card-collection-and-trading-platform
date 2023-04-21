@@ -23,7 +23,7 @@ Features added v(0.1):
 Features added or modified v(0.2)
 - start page includes a login formula (every password functions)
 - main page "/"
-- page "/new" that can be used for adding pokemons
+- page "/new" that can be used for adding pokemons to current database.
 - page "/create_user" has been added, however users cannot yet be added to database
 - "app.py" has been added
 - "routes.py" has been added
