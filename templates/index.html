@@ -1,0 +1,25 @@
+{% if session.username %}
+<title>First page</title>
+<h1> Welcome to your PC!</h1>
+
+<p>You have have logged in with the username {{ session.username }}</p>
+<a href="/logout">Log out</a>
+<br>
+
+<a href="/create_user">Create account</a>
+{% else %}
+<form action="/login" method="POST">
+<p>Username<br>
+<input type="text" name="username"></p>
+<p>Password:<br>
+<input type="password" name="password"></p>
+<input type="submit" value="Log in">
+</form>
+<br>
+{% endif %}
+
+<br> And start growing your Pokemon collection</br>
+<br> Testing: Add Pokémon: <br>
+
+<hr>
+Page ends here
